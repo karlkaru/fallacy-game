@@ -1,6 +1,6 @@
 [
   {
-    "question": "fallacyquestion1fallacyquestion1fallacyquestion1fallacyquestion1fallacyquestion1fallacyquestion1fallacyquestion1",
+    "question": "fallacyquestion1",
     "choice1": "Ad hominem",
     "choice2": "Red Herring",
     "choice3": "Poisoning the well",
@@ -8,7 +8,7 @@
     "answer": 1
   },
   {
-      "question": "fallacyquestion2fallacyquestion2fallacyquestion2fallacyquestion2fallacyquestion2fallacyquestion2fallacyquestion2",
+      "question": "fallacyquestion2",
       "choice1": "Ad hominem",
       "choice2": "Red Herring",
       "choice3": "Poisoning the well",
@@ -16,7 +16,7 @@
       "answer": 2
   },
   {
-      "question": "fallacyquestion3fallacyquestion3fallacyquestion3fallacyquestion3fallacyquestion3fallacyquestion3fallacyquestion3",
+      "question": "fallacyquestion3",
       "choice1": "Ad hominem",
       "choice2": "Red Herring",
       "choice3": "Poisoning the well",
@@ -24,7 +24,7 @@
       "answer": 3
   },
   {
-    "question": "fallacyquestion4fallacyquestion4fallacyquestion4fallacyquestion4fallacyquestion4fallacyquestion4fallacyquestion4",
+    "question": "fallacyquestion4",
     "choice1": "Ad hominem",
     "choice2": "Red Herring",
     "choice3": "Poisoning the well",
